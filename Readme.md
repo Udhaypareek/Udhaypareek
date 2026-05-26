@@ -72,7 +72,6 @@ Passionate about building scalable web applications, intelligent workflows, and 
 
 # 📈 GitHub Stats
 
-<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Udhaypareek&show_icons=true&theme=tokyonight&hide_border=true"/>
 
