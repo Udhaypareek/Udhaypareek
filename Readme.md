@@ -1,130 +1,107 @@
 <div align="center">
 
-# Udhay Pareek
+# Hey, I'm Udhay Pareek 👋
 
 ### Full Stack Developer • AI-Enabled Systems • MERN Stack
 
 <p>
-Building scalable web applications, intelligent workflows, and modern backend systems.
+Passionate about building scalable web applications, intelligent workflows, and AI-assisted systems.
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/udhaypareek/">LinkedIn</a>
-•
-<a href="https://github.com/Udhaypareek">GitHub</a>
-•
-<a href="mailto:udhaypareek@gmail.com">Email</a>
+<img src="https://img.shields.io/badge/MERN-Stack-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/AI-Integrated_Systems-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-Customization-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Udhaypareek&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<a href="https://www.linkedin.com/in/udhaypareek/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI-Enabled+Systems;Backend+Architecture+%26+Real-Time+Applications;Linux+Workflow+Optimization" alt="Typing SVG" />
+<a href="https://github.com/Udhaypareek">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:udhaypareek@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 </div>
 
 ---
 
-## About
+# 👨‍💻 About Me
 
-Full-stack developer focused on backend architecture, AI-assisted systems, and real-time web applications using the MERN stack.
-
-Interested in:
-- scalable backend systems
-- LLM-integrated workflows
-- intelligent automation
-- system design
-- Linux customization and workflow optimization
-
-Currently exploring distributed systems, AI orchestration patterns, and production-grade application architecture.
+- 🚀 Full Stack Developer focused on scalable backend systems and modern web applications  
+- 🤖 Interested in AI-assisted workflows, LLM integrations, and intelligent software systems  
+- 🧠 Worked with Gemini API, OpenAI APIs, WebSockets, RBAC, and real-time architectures  
+- 🏗️ Building production-grade MERN applications with clean backend architecture  
+- 🐧 Linux enthusiast who enjoys customization, workflow optimization, and open-source ecosystems  
+- 🌏 Curious about global technology culture, system design, and engineering-driven products  
 
 ---
 
-## Tech Stack
+# ⚒️ Tech Stack
 
-### Languages
-`JavaScript` `TypeScript` `C++`
+## Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,vite" />
+</p>
 
-### Frontend
-`React.js` `Redux Toolkit` `Tailwind CSS` `Vite`
+## Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+</p>
 
-### Backend
-`Node.js` `Express.js` `MongoDB` `Redis`
+## AI & APIs
+<p>
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSockets-111827?style=for-the-badge"/>
+</p>
 
-### AI & APIs
-`Gemini API` `OpenAI API` `WebSockets` `REST APIs`
-
-### Tools
-`Git` `GitHub` `Postman` `Linux` `VS Code`
-
----
-
-## Experience
-
-### Full Stack Developer Intern — Creative Upaay
-
-- Built scalable multi-tenant backend systems with secure tenant-aware APIs
-- Developed AI-assisted workflows using LLM APIs and asynchronous processing pipelines
-- Implemented real-time communication systems using WebSockets and event-driven architecture
+## Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+</p>
 
 ---
 
-## Achievements
-
-- GATE 2026 (Data Science & Artificial Intelligence) — AIR 1718
-
----
-
-## Terminal
-
-```bash
-> whoami
-Udhay Pareek
-
-> stack
-MERN • AI Integrations • Backend Systems
-
-> interests
-LLM Workflows
-System Design
-Real-Time Applications
-Linux Customization
-
-> currently_learning
-Distributed Systems
-Scalable Architectures
-AI-Orchestrated Systems
-```
-
----
-
-## Currently Exploring
-
-- Advanced Backend Architecture
-- Distributed Systems Fundamentals
-- AI-Orchestrated Workflows
-- Real-Time Systems
-- Linux Workflow Optimization
-
----
+# 📈 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Udhaypareek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Udhaypareek&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Udhaypareek&theme=tokyonight&hide_border=true&background=00000000"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Udhaypareek&theme=tokyonight" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Udhaypareek&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
+# 🌱 Currently Exploring
+
+- Advanced Backend Architecture  
+- Distributed Systems Basics  
+- AI-Orchestrated Workflows  
+- Scalable Real-Time Applications  
+- Linux Workflow Optimization  
+
+---
+
+# 🤝 Let's Connect
+
 <div align="center">
 
-![snake gif](https://github.com/Udhaypareek/Udhaypareek/blob/output/github-contribution-grid-snake-dark.svg)
+<p>
+I enjoy building impactful software, exploring intelligent systems, and learning from ambitious people across the world.
+</p>
+
+<a href="https://www.linkedin.com/in/udhaypareek/">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
